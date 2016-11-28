@@ -9,5 +9,7 @@ Copyright ©2016 Kaltura, Inc.
           title="My Media"
           description="My Media tool">
         <category name="myworkspace" />
+        <category name="course" />
+        <category name="project" />
     </tool>
 </registration>
